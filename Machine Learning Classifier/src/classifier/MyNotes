@@ -1,0 +1,9 @@
+Attributes that can be use to make ML pacman better!
+
+ 	⚫ Attribute which determines whether or not pacman can turn left, right, up, down
+  	
+ 	⚫ Attribute which determines if pacman has hit a wall
+ 	
+ 	⚫ Attribute which checks if pacman is eating
+ 	
+ 	⚫ Attribute which 
